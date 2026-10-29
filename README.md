@@ -35,13 +35,6 @@
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=SuperMickyJay&repo=[repo]&theme=dark)](https://github.com/SuperMickyJay/[repo])
 -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SuperMickyJay&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMickyJay&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
-
 ## 📫 Get in Touch
 
 - Email: johnstone93@msn.com 
