@@ -6,14 +6,14 @@
 -->
 
 <h1 align="center">Hi, I'm Michael 👋</h1>
-<h3 align="center">Analyst Programmer · Game Dev Hobbyist · Physics Gradudate</h3>
+<h3 align="center">Analyst Programmer · Game Dev Hobbyist</h3>
 
 ---
 
 ## 🧑‍🔬 About Me
 
-- 🎓 [Physics background — e.g. "Master's in Physics, into computational modelling"]
-- 🎮 Making games in my spare time — Wizard Wars At Home
+- 🎓 Master's in Physics
+- 🎮 Making games in my spare time - Wizard Wars At Home
 - 🌱 Currently learning: Godot
 - 🤝 Open to collaborating on: Games
 - 💬 Ask me about: Games
@@ -22,10 +22,6 @@
 ## 🛠️ Tech & Tools
 
 <!-- Badges from https://shields.io — add/remove to match what you actually use -->
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -33,9 +29,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**[Game name]**](https://github.com/SuperMickyJay/[repo]) | [One-line pitch for your game] | [Engine / language] |
-| [**[Project name]**](https://github.com/SuperMickyJay/[repo]) | [What it does] | [Language] |
-| **Cellular Automata Traffic Flow** | A cellular automata model of traffic flow, with an accompanying report — my first program, written for a physics course | MATLAB |
+| **Wizard Wars At Home** | Remaking Paradox North's PvP focused multiplayer game - Magicka: Wizard Wars | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
 
 <!-- Alternatively, pin repos on your profile and/or use repo cards:
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=SuperMickyJay&repo=[repo]&theme=dark)](https://github.com/SuperMickyJay/[repo])
@@ -50,7 +44,8 @@
 
 ## 📫 Get in Touch
 
-- [Email / itch.io]: [johnstone93@msn.com] / [supermickyjay.itch.io]
+- Email: johnstone93@msn.com 
+- itch.io: supermickyjay.itch.io
 
 ---
 
