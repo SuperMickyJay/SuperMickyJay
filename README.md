@@ -38,7 +38,7 @@
 ## 📫 Get in Touch
 
 - Email: johnstone93@msn.com 
-- itch.io: supermickyjay.itch.io
+- [itch.io](supermickyjay.itch.io)
 
 ---
 
