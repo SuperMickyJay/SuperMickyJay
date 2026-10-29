@@ -34,10 +34,6 @@
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=SuperMickyJay&repo=[repo]&theme=dark)](https://github.com/SuperMickyJay/[repo])
 -->
 
-## 📫 Get in Touch
-
-- [itch.io](https://supermickyjay.itch.io/)
-
 ---
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
