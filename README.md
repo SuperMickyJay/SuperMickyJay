@@ -23,7 +23,6 @@
 
 <!-- Badges from https://shields.io — add/remove to match what you actually use -->
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -37,7 +36,6 @@
 
 ## 📫 Get in Touch
 
-- Email: johnstone93@msn.com 
 - [itch.io](https://supermickyjay.itch.io/)
 
 ---
